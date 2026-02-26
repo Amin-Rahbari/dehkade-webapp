@@ -35,7 +35,7 @@ Dehkade News System is a secure news management web application developed using 
 
 ## 🚀 Installation# dehkade-webapp
 
-pip install -r requirements.txt python app.py
+pip install -r requirements.txt python dehkade.py
 
 ---
 
